@@ -1,0 +1,7 @@
+print("Hello, Git and Python!")
+
+name = "Madhuri"
+print(f"Welcome {name}")
+
+for i in range(1, 6):
+    print("Number:", i)
